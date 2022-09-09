@@ -1,0 +1,71 @@
+﻿MATCH DETAILS
+Lord's, London
+Toss	Pakistan, elected to bat first
+
+RESULT
+Final, Lord's, Jun 20 1999, ICC World Cup
+
+Pakistan:132
+Australia:(20.1/50 ov)133/2
+Australia won by 8 wickets (with 179 balls remaining)
+
+BATTING	 					R	B	M	4s	6s	SR
+Saeed Anwar 	 b Fleming			15	17	26	3	0	88.23
+Wajahatullah Wasti 	c ME Waugh b McGrath	1	14	20	0	0	7.14
+Abdul Razzaq 	c SR Waugh b Moody		17	51	67	2	0	33.33
+Ijaz Ahmed 	 b Warne			22	46	79	2	0	47.82
+Inzamam-ul-Haq 	c †Gilchrist b Reiffel		15	33	47	0	0	45.45
+Moin Khan †	c †Gilchrist b Warne		6	12	16	0	0	50.00
+Shahid Afridi 	lbw b Warne			13	16	22	2	0	81.25
+Azhar Mahmood 	c & b Moody			8	17	32	1	0	47.05
+Wasim Akram (c)	c SR Waugh b Warne		8	20	23	0	1	40.00
+Saqlain Mushtaq 	c Ponting b McGrath	0	4	10	0	0	0.00
+Shoaib Akhtar 	not out				2	6	8	0	0	33.33
+
+Extras	(lb 10, nb 2, w 13)	25	
+TOTAL	(39 Ov, RR: 3.38)	132	
+
+Fall of wickets: 1-21 (Wajahatullah Wasti, 4.4 ov), 2-21 (Saeed Anwar, 5.1 ov), 3-68 (Abdul Razzaq, 19.4 ov), 
+4-77 (Ijaz Ahmed, 23.4 ov), 5-91 (Moin Khan, 27.1 ov), 6-104 (Inzamam-ul-Haq, 30.1 ov), 7-113 (Shahid Afridi, 31.6 ov), 
+8-129 (Azhar Mahmood, 36.6 ov), 9-129 (Wasim Akram, 37.2 ov), 10-132 (Saqlain Mushtaq, 38.6 ov)
+
+BOWLING		O	M	R	W	ECON	WD	NB
+Glenn McGrath	9	3	13	2	1.44	0	0
+Damien Fleming	6	0	30	1	5.00	4	2
+Paul Reiffel	10	1	29	1	2.90	2	0
+Tom Moody	5	0	17	2	3.40	1	0
+Shane Warne	9	1	33	4	3.66	2	0
+
+AUSTRALIA INNINGS (TARGET: 133 RUNS FROM 50 OVERS)
+
+BATTING	 						R	B	M	4s	6s	SR
+Mark Waugh 	not out					37	52	95	4	0	71.15
+Adam Gilchrist †c Inzamam-ul-Haq b Saqlain Mushtaq	54	36	49	8	1	150.00
+Ricky Ponting 	c †Moin Khan b Wasim Akram		24	27	32	3	0	88.88
+Darren Lehmann 	not out					13	9	12	2	0	144.44
+
+Extras	(lb 1, nb 3, w 1)	5	
+TOTAL	(20.1 Ov, RR: 6.59)	133/2	
+
+Did not bat: Steve Waugh (c), Michael Bevan, Tom Moody, Shane Warne, Paul Reiffel, Damien Fleming, Glenn McGrath 
+Fall of wickets: 1-75 (Adam Gilchrist, 10.1 ov), 2-112 (Ricky Ponting, 17.4 ov)
+
+BOWLING		O	M	R	W	ECON	WD	NB
+Wasim Akram	8	1	41	1	5.12	1	2
+Shoaib Akhtar	4	0	37	0	9.25	0	1
+Abdul Razzaq	2	0	13	0	6.50	0	0
+Azhar Mahmood	2	0	20	0	10.00	0	0
+Saqlain Mushtaq	4.1	0	21	1	5.04	0	0
+
+Series	
+ICC World Cup
+Season	1999
+Player Of The Match	:Shane Warne
+Player Of The Series:Lance Klusener
+
+Series result	Australia won the 1999 ICC World Cup
+Match number	ODI no. 1484
+Match days	day (50-over match)
+Umpires	:David Shepherd,Steve Bucknor
+TV Umpire:Srinivas Venkataraghavan
+Match Referee:Ranjan Madugalle

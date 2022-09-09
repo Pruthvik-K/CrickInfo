@@ -1,0 +1,74 @@
+﻿MATCH DETAILS
+Gaddafi Stadium, Lahore
+Toss	Sri Lanka, elected to field first
+
+RESULT
+Final (D/N), Lahore, Mar 17 1996, Wills World Cup
+Australia:241/7
+Sri Lanka:(46.2/50 ov, target 242)245/3
+
+Sri Lanka won by 7 wickets (with 22 balls remaining)
+
+BATTING	 					R	B	M	4s	6s	SR
+Mark Taylor (c)	c Jayasuriya b de Silva		74	83	109	8	1	89.15
+Mark Waugh 	c Jayasuriya b Vaas		12	15	29	1	0	80.00
+Ricky Ponting 	b de Silva			45	73	90	2	0	61.64
+Steve Waugh 	c de Silva b Dharmasena		13	25	32	0	0	52.00
+Shane Warne 	st †K b Muralitharan		2	5	4	0	0	40.00
+Stuart Law 	c de Silva b Jayasuriya		22	30	43	0	1	73.33
+Michael Bevan 	not out				36	49	58	2	0	73.46
+Ian Healy †	b de Silva			2	3	2	0	0	66.66
+Paul Reiffel 	not out				13	18	21	0	0	72.22
+
+Extras	(lb 10, nb 1, w 11)	22	
+TOTAL	(50 Ov, RR: 4.82)	241/7	
+
+Did not bat: Damien Fleming, Glenn McGrath 
+
+Fall of wickets:1-36 (Mark Waugh), 2-137 (Mark Taylor), 3-152 (Ricky Ponting), 4-156 (Shane Warne), 
+5-170 (Steve Waugh), 6-202 (Stuart Law), 7-205 (Ian Healy)
+
+BOWLING				O	M	R	W	ECON	0s	4s	6s	WD	NB
+Pramodya Wickramasinghe		7	0	38	0	5.42	-	-	-	2	0
+Chaminda Vaas			6	1	30	1	5.00	-	-	-	0	0
+Muthiah Muralidaran		10	0	31	1	3.10	-	-	-	1	0
+Kumar Dharmasena		10	0	47	1	4.70	-	-	-	0	1
+Sanath Jayasuriya		8	0	43	1	5.37	-	-	-	5	0
+Aravinda de Silva		9	0	42	3	4.66	-	-	-	3	0
+
+SRI LANKA INNINGS (TARGET: 242 RUNS FROM 50 OVERS)
+
+BATTING	 					R	B	M	4s	6s	SR
+Sanath Jayasuriya 	run out			9	7	9	1	0	128.57
+Romesh Kaluwitharana †	c Bevan b Fleming	6	13	27	0	0	46.15
+Asanka Gurusinha 	b Reiffel		65	99	119	6	1	65.65
+Aravinda de Silva 	not out			107	124	176	13	0	86.29
+Arjuna Ranatunga (c)	not out			47	37	72	4	1	127.02
+
+Extras	(b 1, lb 4, nb 1, w 5)	11	
+TOTAL	(46.2 Ov, RR: 5.28)	245/3	
+
+Did not bat:
+Hashan Tillakaratne, Roshan Mahanama, Kumar Dharmasena, Chaminda Vaas, Pramodya Wickramasinghe, Muthiah Muralidaran 
+Fall of wickets: 
+1-12 (Sanath Jayasuriya), 2-23 (Romesh Kaluwitharana), 3-148 (Asanka Gurusinha)
+
+BOWLING		O	M	R	W	ECON	0s	4s	6s	WD	NB
+Glenn McGrath	8.2	1	28	0	3.36	-	-	-	0	0
+Damien Fleming	6	0	43	1	7.16	-	-	-	4	0
+Shane Warne	10	0	58	0	5.80	-	-	-	1	1
+Paul Reiffel	10	0	49	1	4.90	-	-	-	0	0
+Mark Waugh	6	0	35	0	5.83	-	-	-	0	0
+Steve Waugh	3	0	15	0	5.00	-	-	-	0	1
+Michael Bevan	3	0	12	0	4.00	-	-	-	0	0
+
+Sri Lanka tour of Pakistan
+Season	1995/96
+Player Of The Match	:Aravinda de Silva
+Player Of The Series:Sanath Jayasuriya
+Series result	Sri Lanka won the 1995/96 Wills World Cup
+Match number	ODI no. 1083
+Match days	daynight (50-over match)
+Umpires	:David Shepherd,Steve Bucknor
+TV Umpire:Cyril Mitchley
+Match Referee:Clive Lloyd

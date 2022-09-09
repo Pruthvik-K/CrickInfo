@@ -1,0 +1,78 @@
+﻿MATCH DETAILS
+Wankhede Stadium, Mumbai
+Toss	Sri Lanka, elected to bat first
+
+RESULT
+Final (D/N), Mumbai, Apr 2 2011, ICC Cricket World Cup
+
+Sri Lanka:274/6
+India:(48.2/50 ov, target 275)277/4
+India won by 6 wickets (with 10 balls remaining)
+
+BATTING	 						R	B	M	4s	6s	SR
+Upul Tharanga 	c Sehwag b Khan				2	20	30	0	0	10.00
+Tillakaratne Dilshan 	 b Harbhajan Singh		33	49	87	3	0	67.34
+Kumar Sangakkara (c)†	c †Dhoni b Yuvraj Singh	 	48	67	102	5	0	71.64
+Mahela Jayawardene 	not out				103	88	159	13	0	117.04
+Thilan Samaraweera 	lbw b Yuvraj Singh		21	34	53	2	0	61.76
+Chamara Kapugedera 	c Raina b Khan			1	5	6	0	0	20.00
+Nuwan Kulasekara 	run out (†Dhoni)		32	30	41	1	1	106.66
+Thisara Perera 	not out					22	9	10	3	1	244.44
+
+Extras	(b 1, lb 3, nb 2, w 6)	12	
+TOTAL	(50 Ov, RR: 5.48, 246 Mts)	274/6	
+
+Did not bat: Lasith Malinga, Suraj Randiv, Muthiah Muralidaran 
+
+Fall of wickets: 
+1-17 (Upul Tharanga, 6.1 ov), 2-60 (Tillakaratne Dilshan, 16.3 ov), 3-122 (Kumar Sangakkara, 27.5 ov), 
+4-179 (Thilan Samaraweera, 38.1 ov), 5-182 (Chamara Kapugedera, 39.5 ov), 6-248 (Nuwan Kulasekara, 47.6 ov)
+
+BOWLING			O	M	R	W	ECON	0s	4s	6s	WD	NB
+Zaheer Khan		10	3	60	2	6.00	32	6	2	1	0
+Sreesanth		8	0	52	0	6.50	26	8	0	0	2
+Munaf Patel		9	0	41	0	4.55	31	4	0	1	0
+Harbhajan Singh		10	0	50	1	5.00	24	3	0	1	0
+Yuvraj Singh		10	0	49	2	4.90	28	5	0	0	0
+Sachin Tendulkar	2	0	12	0	6.00	4	0	0	3	0
+Virat Kohli		1	0	6	0	6.00	3	1	0	0	0
+
+INDIA INNINGS (TARGET: 275 RUNS FROM 50 OVERS)
+BATTING	 						R	B	M	4s	6s	SR
+Virender Sehwag 	lbw b Malinga			0	2	2	0	0	0.00
+Sachin Tendulkar 	c †Sangakkara b Malinga		18	14	21	2	0	128.57
+Gautam Gambhir 	 b Perera				97	122	187	9	0	79.50
+Virat Kohli 	c & b Dilshan				35	49	69	4	0	71.42
+MS Dhoni (c)†	not out					91	79	128	8	2	115.18
+Yuvraj Singh 	not out					21	24	39	2	0	87.50
+
+Extras	(b 1, lb 6, w 8)	15	
+TOTAL	(48.2 Ov, RR: 5.73, 230 Mts)	277/4	
+
+Did not bat: Suresh Raina, Harbhajan Singh, Zaheer Khan, Munaf Patel, Sreesanth 
+Fall of wickets: 1-0 (Virender Sehwag, 0.2 ov), 2-31 (Sachin Tendulkar, 6.1 ov), 3-114 (Virat Kohli, 21.4 ov), 
+4-223 (Gautam Gambhir, 41.2 ov)
+
+BOWLING				O	M	R	W	ECON	0s	4s	6s	WD	NB
+Lasith Malinga			9	0	42	2	4.66	31	4	0	2	0
+Nuwan Kulasekara		8.2	0	64	0	7.68	20	8	1	0	0
+Thisara Perera			9	0	55	1	6.11	27	5	1	2	0
+Suraj Randiv			9	0	43	0	4.77	24	3	0	0	0
+Tillakaratne Dilshan		5	0	27	1	5.40	14	2	0	1	0
+Muthiah Muralidaran		8	0	39	0	4.87	23	3	0	1	0
+
+Series:ICC Cricket World Cup
+Season	2010/11
+
+Player Of The Match	:MS Dhoni
+Player Of The Series:Yuvraj Singh
+
+Series result	India won the 2010/11 ICC Cricket World Cup
+Match number	ODI no. 3148
+Hours of play (local time)	14.30 start, First Session 14.30-18.00, Interval 18.00-18.45, Second Session 18.45-22.15
+Match days	2 April 2011 - daynight (50-over match)
+
+Umpires	:Aleem Dar,Simon Taufel
+TV Umpire:Ian Gould
+Reserve Umpire:Steve Davis
+Match Referee:Jeff Crowe

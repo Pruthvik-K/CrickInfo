@@ -1,0 +1,62 @@
+NZ-183(45)  AUS-186/3(33.3)
+AUS won by 7 wickets
+
+Toss:NZ won the toss and decided to bat
+Stadium:MCG 
+
+Team-NewZeland
+
+Batting		R	B	4s	6s	S/R	wicket
+M.Guptil	15	34	1	1	44.12	b Glenn Maxwell
+B.McCulllum	0	3	0	0	0.00	b Mitchell Starc
+K.Wiliamson(c)	12	33	1	0	36.36	c&b Mitchell Jhonson
+R.Taylor	40	72	2	0	55.56	c Brad Haddin b James Faulkner
+G.Elliott	83	82	7	1	101.22	c Brad Haddin b James Faulkner
+C.Anderson	0	2	0	0	0.00	b James Faulkner 
+L.Ronchi	0	4	0	0	0.00	c Mitchell Clarcke b Mitchell Starc
+D.Vettori	9	21	1	0	42.86	b Mitchell Jhonson
+T.Southee	11	11	0	1	100.00	run out
+M.Henry		0	7	0	0	0.00	c Mitchell Starc b Mitchell Jhonson
+T.Boult		0	1	0	0	0.00	not out
+
+Extras	13(W 6,LB 7)
+
+Total runs 183(10 wkts,45 ov)
+
+Fall of wickets
+1/1(B.McCulllum,0.5 ov)|33/2(M.Guptil,11.2ov)|39/3(K.Wiliamson,12.2)|150/4(R.Taylor,35.1 ov)|150/5(C.Anderson,35.3 ov)|
+151/6(L.Ronchi,36.2 ov)|167/7(D.vettoru,40.6 ov)|171/8(G.Elliott,41.5 ov)|182/9(M.Henry,44.5 ov)|183/10(T.Southee,44.6 ov)
+
+Bowling		O	M	R	W	Econ
+M.Starc		8.0	0	20	2	2.50
+J.Hazelwood	8.0	2	30	0	3.75
+M.Jhonson	9.0	0	30	3	3.33
+G.Maxwell	7.0	0	37	1	5.29
+J.Faulkner	9.0	1	36	3	4.00
+S.Watson	4.0	0	23	0	5.75
+
+Team-Australia
+
+Batting		R	B	4s	6s	S/R	wicket
+D.Warner	45	46	7	0	97.83	c Grant Elliott b Matt Henry
+A.Finch		0	5	0	0	0.00	c&b T.Boult
+S.Smith		56	71	3	0	78.87	not out
+M.Clarcke	74	72	10	1	102.78	b Matt Henry
+S.Watson	2	5	0	0	40.00	not out
+
+
+Extras	9(W 6,LB 3)
+Total runs	186(3 wkts,33.1 ov)
+
+Yet to bat 
+Glenn maxwell,J.Faulkner,Brad Haddin(w),Mitchell Jhonson,Mitchell Starc,Josh Hazelwood
+
+Fall of wickets
+2/1(A.Finch,1.4 ov),63/2(D.Warner,12.2 ov),175/3(M.Clarcke,31.1 ov)
+
+Bowling		O	M	R	W	Econ
+T.Boult		10.0	0	40	1	4.00
+M.Henry		9.1	0	46	2	5.02
+T.Southee	8.0	0	65	0	8.13
+D.Vettori	5.0	0	25	0	5.00
+C.Anderson	1.0	0	7	0	7.00

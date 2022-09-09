@@ -1,0 +1,39 @@
+FULL NAME
+Smriti Shriniwas Mandhana
+
+BORN
+July 18, 1996, Bombay (now Mumbai), Maharashtra
+
+AGE
+25y 32d
+
+BATTING STYLE
+Left hand bat
+
+BOWLING STYLE
+Right arm offbreak
+
+PLAYING ROLE
+Opening batter
+
+TEAMS
+
+India Women
+Brisbane Heat Women
+Maharashtra Women
+Southern Brave (Women)
+Trailblazers
+Western Storm
+
+CAREER AVERAGES
+
+Batting & Fielding
+Format	Mat	Inns	NO	Runs	HS	Ave	BF	SR	100s	50s	4s	6s	Ct	St
+WTEST	3	5	0	167	78	33.40	354	47.17	0	2	29	0	0	0
+WODI	59	59	5	2253	135	41.72	2668	84.44	4	18	281	28	18	0
+WT20I	81	79	6	1901	86	26.04	1567	121.31	0	13	248	35	19	0
+Bowling
+Format	Mat	Inns	Balls	Runs	Wkts	BBI	BBM	Ave	Econ	SR	4w	5w	10w
+WTEST	3	-	-	-	-	-	-	-	-	-	-	-	-
+WODI	59	-	-	-	-	-	-	-	-	-	-	-	-
+WT20I	81	-	-	-	-	-	-	-	-	-	-	-	-

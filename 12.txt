@@ -1,0 +1,103 @@
+NZ-241/8	ENG-241/10
+NZ-15/1(target 16)	ENG-15/0
+
+Eng won he 
+
+Toss:NZ won the toss and decided to bat
+Stadium:Lord's 
+
+Team-NewZeland
+
+Batting		R	B	4s	6s	S/R	wicket
+M.Guptil	19	18	2	1	105.56	lbw b Chris Woakes
+H.Nicholls	5	77	4	0	71.43	b.Liam Pluncket
+K.Wiliamson(c)	30	53	2	1	56.60	c Jos Buttler b Liam Pluncket
+R.Taylor	15	31	0	0	48.39	lbw b Mark Wood
+T.Latham(w)	47	56	2	1	83.93	c.sub b Chris Woakes
+J.Neesham	19	25	3	0	76.00	c.Joe Root b Liam Pluncket
+C.de Grandhomme	16	28	0	0	57.14	c sub b Chris Woakes
+M.Santer	5	9	0	0	55.56	not out
+M.Henry		4	2	1	0	200.00	b Jofra Archer
+T.Boult		1	2	0	0	50.00	not out
+
+Extras	30(NB 1,W 17,LB 12)
+
+Total runs 241(8 wkts,50 ov)
+
+Yet to bat->Lockie Ferguson
+
+Fall of wickets
+29/1(M.Guptil,6.2 ov)|103/2(K.Wiliamson,22.4)|118/3(H.Nicholls,26.5 ov)|141/4(R.Taylor,33.1 ov)|
+173/5(J.Neesham,38.6 ov)|219/6(C.de Grandhomme,46.5 ov)|232/7(T.latham,48.3)|240/8(M.Henry,49.3 ov)
+
+Bowling		O	M	R	W	Econ
+C.Woakes	9.0	0	37	3	4.11
+J.Archer	10	0	42	1	4.20
+L.Pluncket	10	0	42	3	4.20
+M.Wood		10  	1	49	1	4.90
+A.Rashid	8.0	0	39	0	4.88
+B.Stokes	3.0	0	20	0	6.67
+
+
+Team-England
+
+Batting		R	B	4s	6s	S/R		wicket
+J.Roy		17	20	3	0	85.00	c Tom Latham b Mattt Henry
+J.Bairstow	36	55	7	0	65.45	b Lockie Ferguson
+J.Root		7	30	0	0	23.33	c Tom Latham b Colin de Grandhomme
+E.Morgan(c)	9	22	0	0	0.91	c Lockie Ferguson b James Neesham
+B.Stokes 	84	98	5	2	85.71	not out
+J.Buttler(w)59	60	6	0	2	98.33	c sub b Lockie Ferguson
+C.Woakes 	22	4	0	0	50.00	c Tom Latham b Lockie Ferguson
+L.Pluncket	10	10	1	0	100.00	c Trent Boult b James Neesham
+J.Archer	0	1	0	0	0.00	b James Neesham
+A.Rashid	0	0	0	0	-	runout(Mitchell santner)
+M.Wood	0	0	0	0	0	-	runout(James Neesham)
+
+Extras	17(W 12,B 2,LB 3)
+Total runs	241(10 wkts,50 ov)
+
+Fall of wickets
+28/1(J.Roy,5.4 ov)|59/2(J.Root,16.3 ov)|71/3(J.Bairstow,19.3 ov)|86/4(E.Morgan,23.1 ov)|
+196/5(J.Buttler,44.5 ov)|203/6(C.Woakes,46.1 ov)|220/7(L.Pluncket,48.3 ov)|
+227/8(J.Archer,48.6 ov)|240/9(A.Rashid,49.5 ov)|241/10(M.Wood,49.6 ov)
+
+Bowling		O	M	R	W	Econ
+T.Boult		10.0	0	67	0	6.70
+M.Henry		10.0	2	40	1	4.00
+C.de Grandhomme	10.0	2	25	1	2.50
+L.Ferguson	10.0	0	50	3	5.00
+J.Neesham	7.0	0	43	3	6.14
+M.santner	3.0	0	11	0	3.67
+
+
+SUPER OVER
+
+Team-NewZeland
+
+Batting	R	B	4s	6s	S/R	wicket
+B.Stokes	8	3	1	0	266.67	not out
+J.Buttler	7	3	1	0	233.33
+
+Extras	0
+Total runs 15(0 wkts,1 ov)
+
+Yet to bat Jason Roy
+Bowling		O	M	R	W	Econ
+T.Boult		1.0	0	15	0	15.00
+
+Team-England
+
+Batting		R	B	4s	6s	S/R	wicket
+J.Neesham	13	5	0	1	260.00
+M.Guptil	1	1	0	0	100.00
+
+Extras	1(W 1)
+Total runs 15(1 wkts,1 ov)
+
+Yet to bat Kane Wiliamson
+
+Fall of wickets
+15/1(M.Guptil,0.6 ov)
+Bowling		O	M	R	W	Econ
+J.Archer	1.0	0	15	0	15.00

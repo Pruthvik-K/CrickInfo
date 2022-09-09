@@ -1,0 +1,77 @@
+﻿MATCH DETAILS
+Kensington Oval, Bridgetown, Barbados
+Toss	Australia, elected to bat first
+
+RESULT
+Final, Bridgetown, Apr 28 2007, ICC World Cup
+
+Australia:281/4
+Sri Lanka:(36/36 ov, target 269)215/8
+Australia won by 53 runs (D/L method)
+
+BATTING	 						R	B	M	4s	6s	SR
+Adam Gilchrist †	c Silva b Fernando		149	104	129	13	8	143.26
+Matthew Hayden 	c Jayawardene b Malinga			38	55	100	3	1	69.09
+Ricky Ponting (c)	run out (Jayawardene)		37	42	53	1	1	88.09
+Andrew Symonds 	not out					23	21	39	2	0	109.52
+Shane Watson 	 b Malinga				3	3	3	0	0	100.00
+Michael Clarke 	not out					8	6	10	1	0	133.33
+
+Extras	(lb 4, nb 3, w 16)	23	
+TOTAL	(38 Ov, RR: 7.39, 169 Mts)	281/4	
+
+Did not bat: Michael Hussey, Brad Hogg, Nathan Bracken, Shaun Tait, Glenn McGrath 
+Fall of wickets: 1-172 (Matthew Hayden, 22.5 ov), 2-224 (Adam Gilchrist, 30.3 ov), 3-261 (Ricky Ponting, 35.4 ov), 
+4-266 (Shane Watson, 36.2 ov)
+
+BOWLING				O	M	R	W	ECON	0s	4s	6s	WD	NB
+Chaminda Vaas			8	0	54	0	6.75	25	5	1	1	2
+Lasith Malinga			8	1	49	2	6.12	26	5	2	0	0
+Dilhara Fernando		8	0	74	1	9.25	13	7	2	4	1
+Muthiah Muralidaran		7	0	44	0	6.28	13	1	1	2	0
+Tillakaratne Dilshan		2	0	23	0	11.50	4	0	2	1	0
+Sanath Jayasuriya		5	0	33	0	6.60	13	2	2	0	0
+
+
+SRI LANKA INNINGS (TARGET: 269 RUNS FROM 36 OVERS)
+
+BATTING	 					R	B	M	4s	6s	SR
+Upul Tharanga 	c †Gilchrist b Bracken		6	8	11	1	0	75.00
+Sanath Jayasuriya 	 b Clarke		63	67	108	9	0	94.02
+Kumar Sangakkara †	c Ponting b Hogg	54	52	72	6	1	103.84
+Mahela Jayawardene (c)	lbw b Watson		19	19	31	1	0	100.00
+Chamara Silva 	 b Clarke			21	22	41	1	1	95.45
+Tillakaratne Dilshan run out(McGrath)		14	13	20	2	0	107.69
+Russel Arnold 	c †Gilchrist b McGrath		1	2	9	0	0	50.00
+Chaminda Vaas 	not out				11	21	20	0	0	52.38
+Lasith Malinga 	st †Gilchrist b Symonds		10	6	6	0	1	166.66
+Dilhara Fernando 	not out			1	6	6	0	0	16.66
+Extras	(lb 1, w 14)	15	
+TOTAL	(36 Ov, RR: 5.97, 171 Mts)	215/8
+	
+Did not bat: Muthiah Muralidaran 
+Fall of wickets: 1-7 (Upul Tharanga, 2.1 ov), 2-123 (Kumar Sangakkara, 19.5 ov), 3-145 (Sanath Jayasuriya, 22.6 ov), 
+4-156 (Mahela Jayawardene, 25.5 ov), 5-188 (Tillakaratne Dilshan, 29.6 ov), 6-190 (Chamara Silva, 30.1 ov), 
+7-194 (Russel Arnold, 31.5 ov), 8-211 (Lasith Malinga, 33.6 ov)
+
+BOWLING			O	M	R	W	ECON	0s	4s	6s	WD	NB
+Nathan Bracken	6	1	34	1	5.66	21	5	0	1	0
+Shaun Tait		6	0	42	0	7.00	17	6	0	2	0
+Glenn McGrath	7	0	31	1	4.42	24	2	1	1	0
+Shane Watson	7	0	49	1	7.00	15	5	0	3	0
+Brad Hogg		3	0	19	1	6.33	7	2	0	0	0
+Michael Clarke	5	0	33	2	6.60	14	0	2	2	0
+Andrew Symonds	2	0	6	1	3.00	7	0	0	0	0
+
+Series:	ICC World Cup
+Season	2006/07
+Player Of The Match	:Adam Gilchrist
+Player Of The Series:Glenn McGrath
+Series result	Australia won the 2006/07 ICC World Cup
+Match number	ODI no. 2581
+Hours of play (local time)	12.15 start, First Session 12.15-14.55. Interval 14.55-15.05, Second Session 15.05-17.45
+Match days	28 April 2007 - day (50-over match)
+Umpires	:Aleem Dar,Steve Bucknor
+TV Umpire:Rudi Koertzen
+Reserve Umpire:Billy Bowden
+Match Referee:Jeff Crowe

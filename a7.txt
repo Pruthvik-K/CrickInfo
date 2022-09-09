@@ -1,0 +1,43 @@
+FULL NAME
+Yuzvendra Singh Chahal
+
+BORN
+July 23, 1990, Jind, Haryana
+
+AGE
+31y 27d
+
+BATTING STYLE
+Right hand bat
+
+BOWLING STYLE
+Legbreak googly
+
+PLAYING ROLE
+Bowler
+
+TEAMS
+
+India
+Haryana
+India A
+Mumbai Indians
+North Zone
+Royal Challengers Bangalore
+
+CAREER AVERAGES
+
+Bowling
+Format	Mat	Inns	Balls	Runs	Wkts	BBI	BBM	Ave	Econ	SR	4w	5w	10w
+ODI	56	55	3013	2613	97	6/42	6/42	26.93	5.20	31.00	2	2	0
+T20I	49	49	1149	1594	63	6/25	6/25	25.30	8.32	18.20	2	1	0
+FC	31	48	5463	2790	84	6/44	8/112	33.21	3.06	65.00	3	2	0
+List A	108	104	5291	4295	158	6/24	6/24	27.18	4.87	33.40	3	4	0
+T20	207	205	4414	5602	227	6/25	6/25	24.67	7.61	19.40	4	1	0
+Batting & Fielding
+Format	Mat	Inns	NO	Runs	HS	Ave	BF	SR	100s	50s	4s	6s	Ct	St
+ODI	56	10	4	53	18*	8.83	90	58.88	0	0	7	0	15	0
+T20I	49	4	2	5	3*	2.50	11	45.45	0	0	0	0	9	0
+FC	31	47	10	324	42	8.75	1084	29.88	0	0	38	2	11	0
+List A	108	40	19	261	24*	12.42	448	58.25	0	0	25	1	26	0
+T20	207	33	20	64	10	4.92	122	52.45	0	0	1	0	54	0

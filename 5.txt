@@ -1,0 +1,75 @@
+﻿MATCH DETAILS
+Melbourne Cricket Ground
+Toss	Pakistan, elected to bat first
+
+RESULT
+Final (D/N), Melbourne, Mar 25 1992, Benson & Hedges World Cup
+
+Pakistan:249/6
+England:(49.2/50 ov, target 250)227
+
+Pakistan won by 22 runs
+
+BATTING	 				R	B	M	4s	6s	SR
+Aamer Sohail 	c †Stewart b Pringle	4	19	20	0	0	21.05
+Ramiz Raja 	lbw b Pringle		8	26	36	1	0	30.76
+Imran Khan (c)	c Illingworth b Botham	72	110	159	5	1	65.45
+Javed Miandad 	c Botham b Illingworth	58	98	125	4	0	59.18
+Inzamam-ul-Haq 	 b Pringle		42	35	46	4	0	120.00
+Wasim Akram 	run out (†Stewart)	33	18	21	4	0	183.33
+Saleem Malik 	not out			0	1	2	0	0	0.00
+
+Extras	(lb 19, nb 7, w 6)	32	
+TOTAL	(50 Ov, RR: 4.97)	249/6	
+
+Did not bat: Ijaz Ahmed, Moin Khan †, Mushtaq Ahmed, Aaqib Javed
+ 
+Fall of wickets: 1-20 (Aamer Sohail, 4.6 ov), 2-24 (Ramiz Raja, 8.2 ov), 3-163 (Javed Miandad, 39.3 ov), 
+4-197 (Imran Khan, 43.3 ov), 5-249 (Inzamam-ul-Haq, 49.5 ov), 6-249 (Wasim Akram, 49.6 ov)
+
+BOWLING			O	M	R	W	ECON	WD	NB
+Derek Pringle		10	2	22	3	2.20	3	5
+Chris Lewis		10	2	52	0	5.20	1	2
+Ian Botham		7	0	42	1	6.00	1	0
+Phil DeFreitas		10	1	42	0	4.20	0	0
+Richard Illingworth	10	0	50	1	5.00	0	0
+Dermot Reeve		3	0	22	0	7.33	1	0
+
+ENGLAND INNINGS (TARGET: 250 RUNS FROM 50 OVERS)
+
+BATTING	 						R	B	M	4s	6s	SR
+Graham Gooch (c)	c Aaqib Javed b Mushtaq Ahmed	29	66	93	1	0	43.93
+Ian Botham 	c †Moin Khan b Wasim Akram		0	6	12	0	0	0.00
+Alec Stewart †	c †Moin Khan b Aaqib Javed		7	16	22	1	0	43.75
+Graeme Hick 	lbw b Mushtaq Ahmed			17	36	49	1	0	47.22
+Neil Fairbrother 	c †Moin Khan b Aaqib Javed	62	70	97	3	0	88.57
+Allan Lamb 	 b Wasim Akram				31	41	54	2	0	75.60
+Chris Lewis 	 b Wasim Akram				0	1	6	0	0	0.00
+Dermot Reeve 	c Ramiz Raja b Mushtaq Ahmed		15	32	38	0	0	46.87
+Derek Pringle 	not out					18	16	29	1	0	112.50
+Phil DeFreitas 	run out (Saleem Malik/†Moin Khan)	10	8	13	0	0	125.00
+Richard Illingworth 	c Ramiz Raja b Imran Khan	14	10	9	2	0	140.00
+
+Extras	(lb 5, nb 6, w 13)	24	
+TOTAL	(49.2 Ov, RR: 4.60)	227	
+
+Fall of wickets: 1-6 (Ian Botham, 2.5 ov), 2-21 (Alec Stewart, 7.3 ov), 3-59 (Graeme Hick, 18.6 ov), 
+4-69 (Graham Gooch, 20.5 ov), 5-141 (Allan Lamb, 34.5 ov), 6-141 (Chris Lewis, 34.6 ov), 7-180 (Neil Fairbrother, 42.5 ov), 
+8-183 (Dermot Reeve, 43.6 ov), 9-208 (Phil DeFreitas, 47.1 ov), 10-227 (Richard Illingworth, 49.2 ov)
+
+BOWLING			O	M	R	W	ECON	WD	NB
+Wasim Akram		10	0	49	3	4.90	6	4
+Aaqib Javed		10	2	27	2	2.70	3	1
+Mushtaq Ahmed		10	1	41	3	4.09	1	0
+Ijaz Ahmed		3	0	13	0	4.33	2	0
+Imran Khan		6.2	0	43	1	6.78	0	1
+Aamer Sohail		10	0	49	0	4.90	1	0
+
+Series:Benson & Hedges World Cup
+Season:1991/92
+Player Of The Match	:Wasim Akram
+Player Of The Series:Martin Crowe
+Series result	Pakistan won the 1991/92 Benson & Hedges World Cup
+Match number	ODI no. 752
+Match days	daynight (50-over match)
+Umpires	:Brian Aldridge,Steve Bucknor
